@@ -6,11 +6,11 @@ This portfolio intends to showcase some of my work throughout this bootcamp. I w
 
 ## Usage
 
+Link to deployed application: https://brendh4.github.io/Styled-Portfolio/
+
 To use this portfolio, you simply open the index page in your preferred browser and click on any projects that you would like to see. This will link you to where the projectis stored in GitHub.
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![Deployed webpage screenshot](/assets/images/screenshot.PNG)
 
 ## Credits
 
