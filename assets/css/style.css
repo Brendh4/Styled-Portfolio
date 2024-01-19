@@ -52,22 +52,11 @@ nav a:hover {
   color: ;
 }
 
-.hero-banner {
-  background: url("../images/02-hero-bg.jpg");
-  /* background-position: center; */
-  background-repeat: no-repeat;
+.bg-image {
   background-size: cover;
-  /* position: relative; */
-  height: 200px;
-  background-color: blue; /* figure out tint? */
+  background-position: center;
 }
 
-.hero-banner h2 {
-  display: flex;
-  text-align: end ;
-  flex-direction: column;
-  justify-content: last baseline;
-}
 
 .page-wrapper {
   display: grid;
